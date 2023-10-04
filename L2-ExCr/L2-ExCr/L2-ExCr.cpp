@@ -1,4 +1,8 @@
 
+
+
+
+
 //* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * 
 //* Program name    :  Longest Common Substring, L2-ExtraCredit         * 
 //*                                                                     * 
@@ -80,15 +84,6 @@ int main() {
 
     return 0;
 }
-
-
-
-
-
-
-
-
-
 
 
 
