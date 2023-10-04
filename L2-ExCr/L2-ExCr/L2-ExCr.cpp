@@ -3,39 +3,6 @@
 
 
 
-//* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * 
-//* Program name    :  Longest Common Substring, L2-ExtraCredit         * 
-//*                                                                     * 
-//* Written by      : Peter Sivak                                       * 
-//*                                                                     * 
-//* Purpose         : Program is finding longest common substring of    * 
-//*                   2 strings                                         * 
-//*                                                                     * 
-//* Inputs          : No input for user, just lunch program             * 
-//*                                                                     * 
-//* Outputs         : Program display common substring if there is any  * 
-//*                                                                     * 
-//* Calls           : No internal or external calls, other than system  * 
-//*                                                                     * 
-//* Structure       : BEGIN                                             * 
-//*                       User lunch program                            *
-//                                                                      * 
-//*                   STOP                                              * 
-//*                       Program display longest common substring      * 
-//*---------------------------------------------------------------------* 
-//* Collaboration   : Got help from Prof. John Urrutia                  * 
-//*                                                                     * 
-//*                                                                     * 
-//*---------------------------------------------------------------------* 
-//* Change Log:                                                         * 
-//*                         Revision                                    * 
-//*       Date    Changed  Rel Ver Mod Purpose                          * 
-//*  10/02/23      psivak   000.000.000 Initial release of program      *  
-//*                                                                     * 
-//* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
-
-
-
 #include <iostream>
 #include <string>
 using namespace std;
